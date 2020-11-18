@@ -1,0 +1,6 @@
+John Smith 21 1.9 715-333-2432 South 3rd St.
+Samuel Santiago 44 1.7 432-343-3453 238 West St. N. East
+Mary Jones 22 2.3 754-343-3323 3rd St.
+Jim Jackie 34 3.4 754-673-6543 East Hollywood Blvd. North
+Mohamad Noor 42	3.1	453-561-8723 410 S. 3rd St.
+Shekeela Jackson 18	4.0	234-451-1112 123 South Hall East
